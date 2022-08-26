@@ -8,6 +8,6 @@ server:
 okta:
   oauth2:
     issuer: https://dev-02872244.okta.com/oauth2/default
-    client-id: 0oa6ahiv9iWNyclGA5d7
-    client-secret: J3hOLi-UlI8uy92GR3783BankWajGqPwiYbdU4RO
+    client-id:  
+    client-secret:  
     #redirect-uri: /authorization-code/callback
